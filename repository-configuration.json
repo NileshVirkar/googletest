@@ -1,14 +1,13 @@
 {
     "gammaAccess": {
-        "url": "",
-        "userName": "",
-        "password": ""
+        "url": "http://192.168.1.27:3000/",
+        "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTYzNTUwNjg5ODk4MywiaWF0IjoxNjM1NTA2ODk4fQ.Vl2CANcE9E56GIfG5nUNjMZQIswSq-q3Qb7ASxLBSnoWSMfN52b0ScUAfjNVhTQmrmQ062MU0xLy6hFxA649lQ"
     },
     "repositories": [
         {
             "dataDir": "%WORKSPACE%/temp",
             "repository": {
-                "uid": "6d94f200103552c9a6bcbfbe2c56a37f",
+                "uid": "829a899139e3d0f0734de848befacc8f",
                 "projectName": "googletestmock",
                 "languages": [
                     "CPP"
