@@ -61,6 +61,8 @@ namespace {
 
 using ::std::ostream;
 
+// comment
+// comment
 // Prints a segment of bytes in the given object.
 GTEST_ATTRIBUTE_NO_SANITIZE_MEMORY_
 GTEST_ATTRIBUTE_NO_SANITIZE_ADDRESS_
